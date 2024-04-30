@@ -60,7 +60,7 @@ public class Menu {
     public void setMoney(String money) {
         this.money = money;
     }
-
+//to string for my menu
     @Override
     public String toString() {
         return menu.toString();
