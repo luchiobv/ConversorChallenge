@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println("Welcome to  the  Converison tool");
         System.out.println("**********************************************************************");
-
+//insatnce of menu
         Menu menu = new Menu();
         Menu menu1 = menu;
         menu1.menuSelection();
