@@ -1,2 +1,2 @@
 # ConversorChallenge
-Money Exchange Change java
+Money Exchange Challenge java
