@@ -2,6 +2,7 @@
 <em> # Money Exchange Challenge java </em>
 ![Desafio Money Exchange Oracle One Next education](https://github.com/luchiobv/ConversorChallenge/assets/128253160/be4bb2a9-7374-4ee0-a1be-95d20b9b9566)
 ![App Screenshot](https://github.com/luchiobv/ConversorChallenge/tree/master/imgs)
+[![MIT License](https://img.shields.io/badge/Technology-java)]
 <img src="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs">
    
 Funcionalidades
