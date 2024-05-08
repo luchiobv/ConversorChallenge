@@ -7,8 +7,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs/Desafio Money Exchange – Main.java 30_04_2024 4_40_52 p. m..png">
-   <img alt="Shows an illustrated part of the function of the app ." src="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs/Desafio Money Exchange – Main.java 30_04_2024 4_40_52 p. m..png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs/Desafio-Money-Exchange.png">
+   <img alt="Shows an illustrated part of the function of the app ." src="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs/Desafio-Money-Exchange.png">
 </picture>
 
 <img src="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs">
