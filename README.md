@@ -23,7 +23,7 @@ El conversor de monedas utiliza una api-key para funcionar por lo que debe regis
 Para poder correr la application es necesario tener el entorno de ejecucion pertinente puede descargarlo de este enlace en caso de no poseerlo.
 
 3. Descargar el proyecto
-Descargar el proyecto usando git clone https://github.com/BaridonFrancisco/Conversor_de_monedas.git o descargelo desde el link del repositorio
+Descargar el proyecto usando git clone  o descargelo desde el link del repositorio
 
 4. Ejecute el archivo jar dentro del proyecto
 ✅ Pulse Windows + R y escriba cmd, si tiene otro sistema abra la línea de comandos
