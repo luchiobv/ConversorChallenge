@@ -2,7 +2,15 @@
 <em> # Money Exchange Challenge java </em>
 ![Desafio Money Exchange Oracle One Next education](https://github.com/luchiobv/ConversorChallenge/assets/128253160/be4bb2a9-7374-4ee0-a1be-95d20b9b9566)
 ![App Screenshot](https://github.com/luchiobv/ConversorChallenge/tree/master/imgs)
-[![MIT License](https://img.shields.io/badge/Technology-java)]
+<img href= https://img.shields.io/badge/Technology-java> ![Badge-Conversor](https://github.com/luchiobv/ConversorChallenge/assets/128253160/bf811c10-f6ca-44f9-97b4-bd140bbcd363)
+![Desafio Money Exchange – Main java 30_04_2024 4_40_52 p  m](https://github.com/luchiobv/ConversorChallenge/assets/128253160/00d73841-4519-4bcc-b941-a3fe6a5ac6e1)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs/Desafio Money Exchange – Main.java 30_04_2024 4_40_52 p. m..png">
+   <img alt="Shows an illustrated part of the function of the app ." src="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs/Desafio Money Exchange – Main.java 30_04_2024 4_40_52 p. m..png">
+</picture>
+
 <img src="https://github.com/luchiobv/ConversorChallenge/tree/master/imgs">
    
 Funcionalidades
@@ -24,10 +32,12 @@ El conversor de monedas utiliza una api-key para funcionar por lo que debe regis
 2. Descargar el JRE
 Para poder correr la application es necesario tener el entorno de ejecucion pertinente puede descargarlo de este enlace en caso de no poseerlo.
 
-3. Descargar el proyecto
+> [!NOTE]
+>3. Descargar el proyecto
 Descargar el proyecto usando git clone  o descargelo desde el link del repositorio
 
-4. Ejecute el archivo jar dentro del proyecto
+> [!NOTE]
+> 4. Ejecute el archivo jar dentro del proyecto
 ✅ Pulse Windows + R y escriba cmd, si tiene otro sistema abra la línea de comandos
 ✅ Ejecute el siguiente comando java -jar (rutaAbsoluta del archivo jar)
 ✅ Debera ingresar su API key ya que la aplicacion se la pedira.
