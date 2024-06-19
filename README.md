@@ -11,6 +11,11 @@
 
 ![Badge-Conversor](https://github.com/luchiobv/ConversorChallenge/assets/128253160/bf811c10-f6ca-44f9-97b4-bd140bbcd363)
 
+### Descripción del proyecto:
+
+Este proyecto basado en Java facilita la conversión de divisas utilizando la ExchangeRate-API. Incluye funcionalidades para obtener tipos de cambio en tiempo real, convertir entre diferentes monedas (USD, ARS, BRL, COP) y guardar los resultados de la conversión en archivos JSON. La aplicación cuenta con una interfaz basada en menús para la interacción con el usuario y aprovecha Gson para la serialización JSON.
+
+
 <p> Imagen de muestra funcionamiento de la app  </p>
 
 ![Desafio-Money-Exchange](https://github.com/luchiobv/ConversorChallenge/assets/128253160/8bbbf1a9-c2fe-4a70-92e8-12cc212ee82f)
